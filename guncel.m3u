@@ -1,6 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="rizecam1" tvg-name="Rize Devlet Hastanesi" tvg-logo="" group-title="Rize",Rize Devlet Hastanesi
-https://cdn-ipkamera.yayin.com.tr/rizebel/devlet_hastanesi/chunklist_w1428471792.m3u8?anahtar=5neSRokmrHkYZfilpDaTEA&sure=1743635315&ip=213.55.243.138
+#EXTINF:-1 tvg-id="" tvg-name="Rize Kale" tvg-logo="" group-title="Rize",Rize Kale
+https://cdn-ipkamera.yayin.com.tr/rizebel/kale/playlist.m3u8?anahtar=FoyVPF5y93K56pSwxK5uLA&sure=1743636227&ip=213.55.243.138
+#EXTINF:-1 tvg-id="" tvg-name="Rize Araştırma Yolu" tvg-logo="" group-title="Rize",Rize Araştırma Yolu
+https://cdn-ipkamera.yayin.com.tr/rizebel/arastirma_yolu/playlist.m3u8?anahtar=FoyVPF5y93K56pSwxK5uLA&sure=1743636227&ip=213.55.243.138
+#EXTINF:-1 tvg-id="" tvg-name="Rize Devlet Hastanesi" tvg-logo="" group-title="Rize",Rize Devlet Hastanesi
+https://cdn-ipkamera.yayin.com.tr/rizebel/devlet_hastanesi/playlist.m3u8?anahtar=cFNFqJ517a5zVcImhUl-UA&sure=1743636212&ip=213.55.243.138
+#EXTINF:-1 tvg-id="" tvg-name="Rize Araştırma Yolu 2" tvg-logo="" group-title="Rize",Rize Araştırma Yolu 2
+https://cdn-ipkamera.yayin.com.tr/rizebel/arastirma_yolu/playlist.m3u8?anahtar=cFNFqJ517a5zVcImhUl-UA&sure=1743636212&ip=213.55.243.138
 
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/PexhKwp.png",4U TV (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630e00c065cfc10007c6e06b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae7975-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fc241168-281d-4fac-b62d-4585cc441c02
