@@ -717,6 +717,28 @@ http://ibb-media1.ibb.gov.tr:1935/live/953.stream/Playlist.m3u8
 http://ibb-media1.ibb.gov.tr:1935/live/954.stream/Playlist.m3u8
 #EXTINF:-1 group-title="cam",cam977
 http://ibb-media1.ibb.gov.tr:1935/live/977.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",İstiklal Caddesi 1
+http://ibb-media1.ibb.gov.tr:1935/live/226.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cam",İstiklal Caddesi 2
+http://ibb-media1.ibb.gov.tr:1935/live/227.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cam",Beyoğlu Tarlabaşı Bulvarı
+http://ibb-media1.ibb.gov.tr:1935/live/228.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam Metro Han
+http://ibb-media1.ibb.gov.tr:1935/live/229.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cam",Kasımpaşa Bahriye Caddesi
+http://ibb-media1.ibb.gov.tr:1935/live/230.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam Şişhane
+http://ibb-media1.ibb.gov.tr:1935/live/233.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cam",Taksim Gümüşsuyu
+http://ibb-media1.ibb.gov.tr:1935/live/235.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cam",İstiklal Caddesi
+http://ibb-media1.ibb.gov.tr:1935/live/226.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cam",Taksim Meydanı
+http://ibb-media1.ibb.gov.tr:1935/live/227.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cam",Galata Kulesi
+http://ibb-media1.ibb.gov.tr:1935/live/228.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cam",Şişli - Mecidiyeköy
+http://ibb-media1.ibb.gov.tr:1935/live/229.stream/playlist.m3u8
 #EXTINF:-1 group-title="Dini" tvg-logo="http://assets.tvcdn.net/19146761-32ae-46ad-a0f0-2862c2f887e9.png",ABN Turkey
 http://stream.tvcdn.net/dini/abn-turkey.m3u8
 #EXTINF:-1 group-title="Dini" tvg-logo="http://assets.tvcdn.net/4ca28592-03c0-44cb-85c5-29216afb1bf4.png",Aile TV
