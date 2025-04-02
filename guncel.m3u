@@ -447,15 +447,15 @@ http://ibb-media1.ibb.gov.tr:1935/live/953.stream/Playlist.m3u8
 http://ibb-media1.ibb.gov.tr:1935/live/954.stream/Playlist.m3u8
 #EXTINF:-1 group-title="cam",cam977
 http://ibb-media1.ibb.gov.tr:1935/live/977.stream/Playlist.m3u8
-#EXTINF:-1 group-title="CocukEgitimi" tvg-logo="http://assets.tvcdn.net/9cf2fc0e-278f-4007-b1a1-8fb22d4990eb.png",Cartoon Network
+#EXTINF:-1 group-title="Çocuk Kanalları" tvg-logo="http://assets.tvcdn.net/9cf2fc0e-278f-4007-b1a1-8fb22d4990eb.png",Cartoon Network
 http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
-#EXTINF:-1 group-title="CocukEgitimi" tvg-logo="http://assets.tvcdn.net/320542d3-bc8c-4e63-ba97-3b89426dda8c.png",cizgi Film TV
+#EXTINF:-1 group-title="Çocuk Kanalları" tvg-logo="http://assets.tvcdn.net/320542d3-bc8c-4e63-ba97-3b89426dda8c.png",cizgi Film TV
 http://stream.tvcdn.net/cocuk-egitim/cizgi-film-tv.m3u8
-#EXTINF:-1 group-title="CocukEgitimi" tvg-logo="http://assets.tvcdn.net/222d7e52-2895-46a1-92a2-93e2ce1c8317.png",cocuklara özel TV
+#EXTINF:-1 group-title="Çocuk Kanalları" tvg-logo="http://assets.tvcdn.net/222d7e52-2895-46a1-92a2-93e2ce1c8317.png",cocuklara özel TV
 http://stream.tvcdn.net/cocuk-egitim/cocuklara-ozel-tv.m3u8
-#EXTINF:-1 group-title="CocukEgitimi" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png",TRT Diyanet cocuk
+#EXTINF:-1 group-title="Çocuk Kanalları" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png",TRT Diyanet cocuk
 http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
-#EXTINF:-1 group-title="CocukEgitimi" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png",TRT EBA
+#EXTINF:-1 group-title="Çocuk Kanalları" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png",TRT EBA
 http://stream.tvcdn.net/cocuk-egitim/trt-eba.m3u8
 #EXTINF:-1 group-title="Dini" tvg-logo="http://assets.tvcdn.net/19146761-32ae-46ad-a0f0-2862c2f887e9.png",ABN Turkey
 http://stream.tvcdn.net/dini/abn-turkey.m3u8
