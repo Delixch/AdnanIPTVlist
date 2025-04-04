@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Rize Kale" tvg-logo="" group-title="Rize",Rize Kale
-https://cdn-ipkamera.yayin.com.tr/rizebel/kale/playlist.m3u8?anahtar=FoyVPF5y93K56pSwxK5uLA&sure=1743636227&ip=213.55.243.138
-#EXTINF:-1 tvg-id="" tvg-name="Rize Araştırma Yolu" tvg-logo="" group-title="Rize",Rize Araştırma Yolu
-https://cdn-ipkamera.yayin.com.tr/rizebel/arastirma_yolu/playlist.m3u8?anahtar=FoyVPF5y93K56pSwxK5uLA&sure=1743636227&ip=213.55.243.138
-#EXTINF:-1 tvg-id="" tvg-name="Rize Devlet Hastanesi" tvg-logo="" group-title="Rize",Rize Devlet Hastanesi
-https://cdn-ipkamera.yayin.com.tr/rizebel/devlet_hastanesi/playlist.m3u8?anahtar=cFNFqJ517a5zVcImhUl-UA&sure=1743636212&ip=213.55.243.138
-#EXTINF:-1 tvg-id="" tvg-name="Rize Araştırma Yolu 2" tvg-logo="" group-title="Rize",Rize Araştırma Yolu 2
-https://cdn-ipkamera.yayin.com.tr/rizebel/arastirma_yolu/playlist.m3u8?anahtar=cFNFqJ517a5zVcImhUl-UA&sure=1743636212&ip=213.55.243.138
-
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/PexhKwp.png",4U TV (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630e00c065cfc10007c6e06b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae7975-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fc241168-281d-4fac-b62d-4585cc441c02
 #EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png",a2
@@ -20,94 +11,44 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
 https://live.al-zahratv.com/live/playlist.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/a3w9eFe.png",Alanya Posta TV (1080p)
 https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/HyVUwFC.png",ATV (720p)
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/6982e864-f429-4e6e-b3ba-d064ae84ff13.png",Belgesel TV
-http://stream.tvcdn.net/eglence/belgesel-tv.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/p3ON1oX.png",BENGÜTÜRK TV (720p) [Not 24/7]
-https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/eJa6sFY.png",Bizimev TV (720p)
 https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/YFnmSLW.png",Cira TV
 https://cira-tv.akamaized.net/hls/stream_0.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/2b0e5b6e-3c75-4d34-b392-90330b629bbb.png",Dizi Film TV
-http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png",DMAX
-http://stream.tvcdn.net/eglence/dmax.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/zJuSbmU.png",Dora TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e43c344b54fe800093552f4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad19e8-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6f38d5cb-dcfd-4261-b299-2bb3409c224c
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_msPtG6zfPKIJIIdvG4dehXLoVoXcHM2-2HL9YxsNYzGQ=s512-c-k-c0x00ffffff-no-rj",ETV Kayseri (720p)
 https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/kb165Ot.png",EuroStar (576p)
 http://185.234.111.229:8000/play/a01h
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/L0NHKBM.png",Flash TV (720p)
-https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/ZbUSlOC.png",Fortuna TV
-https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/8/8e/KBSIO6.png",FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]
-https://live.field59.com/kbsi/kbsi1/playlist.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/vrlBzhV.png",Helwa TV (1080p)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/helwa.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/9o1atM6.png",Kanal D (1080p)
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/WIeZMKT.png",Kanal D Drama (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/871add1b-5165-4aa1-9799-c93185f8841d.png",Kültür Sanat TV
-http://stream.tvcdn.net/eglence/kultur-sanat-tv.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/FUaWv4s.png",Malatya Vuslat TV (576p)
 http://185.234.111.229:8000/play/a01n
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/5EYjWK7.png",NOW TV
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/k7rS2gC.png",On 6 (1080p)
-https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/b46f11bf-bd55-4203-974c-ac36d14dc7d3.png",Saglikli Günler TV
-http://stream.tvcdn.net/eglence/saglikli-gunler-tv.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/lfHVabz.png",Sarıyer TV (360p)
 http://185.234.111.229:8000/play/a00y
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/cKQIK4i.png",Sat 7 Türk (720p)
 https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/UVGGrQd.png",Semerkand TV (1080p) [Not 24/7]
 http://185.234.111.229:8000/play/a05v
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/456FWA7.png",Show Max
-https://canlitvUlusal.xyz/live/showmax/index.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/ec1c55f6-b525-4466-b41c-a935915a6962.png",Show Max
-http://stream.tvcdn.net/eglence/show-max.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/1hNgHbB.png",Sophia TV (720p)
 https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/T2JPCq2.png",Sophia TV Español (720p)
 https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/T2JPCq2.png",Sophia TV Français (720p)
 https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/9O3DHRB.png",Star TV (720p) [Not 24/7]
-https://dogus-live.daioncdn.net/startv/startv.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://www.syria.tv/themes/custom/syriatv/assets/images/logo.png",Syria TV (1080p)
-https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/f438ceb7-c0a8-4b3c-9415-aea43a02b93e.png",Tarih TV
-http://stream.tvcdn.net/eglence/tarih-tv.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/skeNzbc.png",Tek Rumeli TV (576p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df0cff66eec8000897b3a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc833031-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=91cdf5e0-4b15-4ce9-af99-0d9a95c16ff7
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/Z7URrp1.png",Televízia OSEM (360p)
-https://cdn3.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png",teve2
-http://stream.tvcdn.net/eglence/teve2.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/rsoSLih.png",Teve2 (576p)
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TGRT_EU.png/512px-TGRT_EU.png",TGRT Europe (576p)
-https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.ibb.co/9TDs8q8/IFE6LHH.jpg",tiviTÜRK (720p) [Not 24/7]
-https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/9871d781-b961-45cc-a287-c304f02bef1d.png",TLC
-http://stream.tvcdn.net/eglence/tlc.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/7bab6062-acec-4452-a419-345ab95f24e9.png",TRT 2
-http://stream.tvcdn.net/eglence/trt-2.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/512px-TRT_Avaz_logo.svg.png",TRT Avaz (720p)
 http://185.234.111.229:8000/play/a06i
 #EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/8b16e995-ddb6-4201-8ba1-b33f7536ca50.png",TV 4
 http://stream.tvcdn.net/eglence/tv-4.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/300px-Tv8_Yeni_Logo.png",TV 8 (1080p) [Not 24/7]
 http://185.234.111.229:8000/play/a023
-#EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png",TV8.5
-http://stream.tvcdn.net/eglence/tv8-5.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://tytturk.com/upload/tyt-logo.png",TYT Turk (720p)
 http://185.234.111.229:8000/play/a01x
 #EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/8FO41es.png",24 TV (576p)
@@ -120,22 +61,14 @@ http://185.234.111.229:8000/play/a019
 http://185.234.111.229:8000/play/a01k
 #EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/oGto929.png",Akit TV (720p)
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/GgEeTNr.png",Almahriah TV (576p)
-https://starmenajo.com/hls/almahriah/index.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/MCUjck8.png",Bursa AS TV (720p) [Geo-blocked]
 https://waw2.artiYerelmedya.net/astv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/oIMtuwB.png",Can TV (720p)
 http://canbroadcast.com:7000/canlican/tv.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/WsD83lq.png",CBC TV8 (1080p) [Not 24/7]
-https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/Dlsm9XP.png",Deha TV (720p) [Geo-blocked]
 https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/playlist.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/VZhag2x.png",DHA (720p) [Not 24/7]
-https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/X4QFDhk.png",DİM TV (720p) [Geo-blocked]
 https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/JT5pp3Y.png",Guneydogu TV (720p)
-https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/fu6XeGS.png",Haber Global (576p)
 http://185.234.111.229:8000/play/a05k
 #EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/xM0HA30.png",Halk TV (576p)
@@ -144,70 +77,42 @@ http://185.234.111.229:8000/play/a07k
 http://185.234.111.229:8000/play/a01g
 #EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/DN6gdg2.png",Kanal S (720p)
 https://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/0RATxcN.png",Kardelen TV (1080p)
-https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/ex67TP8.png",Kon TV (576p)
 http://185.234.111.229:8000/play/a05o
 #EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/lWeJxm0.png",Life TV (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/q7iVchl.png",Mekameleen TV (1080p)
-https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/3CWV8bS.png",Mercan TV (576p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="https://noratelevizyonu.com/wp-content/uploads/2023/11/nora-tv-logo-1.png",Nora TV (1080p)
 https://live.artidijitalmedya.com/artidijital_noratv/noratv/playlist.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/300px-NTV_%28Turkey%29_logo.svg.png",NTV (720p) [Not 24/7]
-https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/e9ca6gc.png",Olay Türk TV Kayseri (720p) [Geo-blocked]
 https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/PrxwKDw.png",TGRT Haber (360p) [Not 24/7]
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/f0Soeob.png",Ton TV (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/dEfI2M9.png",TRT Arabi (1080p) [Not 24/7]
-https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png",TRT Haber (720p)
-https://tv-trtHaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/f2zGoV3.png",Woman TV (1080p)
 https://embedlp.becdn.net/womantv.m3u8
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://i.imgur.com/ls9NLa4.png",Agro TV (1080p)
 http://185.234.111.229:8000/play/a011
-#EXTINF:-1 group-title="Belgesel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/400px-CGTN_Documentary_logo.png",CGTN Documentary
-https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 #EXTINF:-1 group-title="Belgesel" tvg-logo="http://assets.tvcdn.net/0ddba95e-9ad0-4d8a-9527-b562e173da80.png",ciftci TV
 http://stream.tvcdn.net/belgesel/ciftci-tv.m3u8
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://i.imgur.com/CLzP4vL.png",Ciftci TV (576p)
 http://185.234.111.229:8000/play/a04i
-#EXTINF:-1 group-title="Belgesel" tvg-logo="https://i.imgur.com/xIwn5Ha.png",DLTV 8 (1080p)
-https://cdn-live.dltv.ac.th/dltv08.m3u8
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://i.imgur.com/VDGEPrD.png",Er TV (1080p) [Geo-blocked]
 https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://i.imgur.com/Kr8960d.png",Kanal Z (1080p) [Geo-blocked]
 https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://i.imgur.com/MymuDJ1.png",Kay TV (576p) [Geo-blocked]
 https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
-#EXTINF:-1 group-title="Belgesel" tvg-logo="http://assets.tvcdn.net/6014fb29-bf4c-4e83-8982-949179e6bd8e.png",Köy TV
-http://stream.tvcdn.net/belgesel/koy-tv.m3u8
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",National Geographic Wild
 https://tv.arectv13.sbs/live/natgeowild.m3u8
-#EXTINF:-1 group-title="Belgesel" tvg-logo="http://assets.tvcdn.net/2038e897-1bbf-4744-8028-975e32561396.png",Tarim TV
-http://stream.tvcdn.net/belgesel/tarim-tv.m3u8
 #EXTINF:-1 group-title="Belgesel" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png",TGRT Belgesel
 http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://i.imgur.com/VwWTnf0.png",TGRT Belgesel TV (576p) [Not 24/7]
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
-#EXTINF:-1 group-title="Belgesel" tvg-logo="http://assets.tvcdn.net/2998d78b-5098-4e5a-8450-b2f7148ff817.png",Toprak TV
-http://stream.tvcdn.net/belgesel/toprak-tv.m3u8
-#EXTINF:-1 group-title="Belgesel" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png",TRT Belgesel
-http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
-#EXTINF:-1 group-title="Belgesel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png",TRT Belgesel (720p)
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Belgesel" tvg-logo="https://i.imgur.com/DyT5pKB.png",Viasat Explore
-https://tv.arectv29.sbs/live/viasathistory.m3u8
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://i.imgur.com/tITBc59.png",Vizyon 58 TV (720p) [Geo-blocked]
 https://live.artidijitalmedya.com/artidijital_vizyon58/vizyon58/playlist.m3u8
-#EXTINF:-1 group-title="Belgesel" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png",Yaban TV
-http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://i.imgur.com/FjFjdY5.png",ÜÜ TV Üsküdar Üniversitesi TV (1080p) [Not 24/7]
 https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
 #EXTINF:-1 group-title="Yerel" tvg-logo="http://assets.tvcdn.net/be60bef3-a276-4975-9e49-dcf3bcb8cf17.jpg",Akademik Bakis
@@ -232,14 +137,10 @@ http://stream.tvcdn.net/diger-eglence/isvicre-tv.m3u8
 http://185.234.111.229:8000/play/a054
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://i.imgur.com/wb1Cdc9.png",Kanal 15 (576p)
 http://185.234.111.229:8000/play/a04t
-#EXTINF:-1 group-title="Yerel" tvg-logo="http://assets.tvcdn.net/4f770572-146b-42a7-a786-f7d8d0eeead1.png",Kanal 19
-http://stream.tvcdn.net/diger-eglence/kanal-19.m3u8
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://i.imgur.com/3br8RCq.png",Kanal 23 (576p)
 http://185.234.111.229:8000/play/a04s
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://i.imgur.com/Mr7XPii.png",Kanal 26 (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
-#EXTINF:-1 group-title="Yerel" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-32-tr.png",Kanal 32 (720p) [Not 24/7]
-https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://i.imgur.com/5WYaoFZ.png",Kanal 33 (576p)
 http://185.234.111.229:8000/play/a067
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://i.imgur.com/Rgc66sv.png",Kanal 58 (576p)
@@ -248,10 +149,6 @@ http://185.234.111.229:8000/play/a053
 https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/playlist.m3u8
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://i.imgur.com/3o8Rokp.png",Kanal Firat (576p)
 http://185.234.111.229:8000/play/a04l
-#EXTINF:-1 group-title="Yerel" tvg-logo="https://i.imgur.com/eikZj19.png",Kanal Hayat (1080p)
-https://tbn02a.ltnschedule.com/hls/nx21i.m3u8
-#EXTINF:-1 group-title="Yerel" tvg-logo="https://i.imgur.com/EvgQmoT.png",Kanal Urfa (576p) [Not 24/7]
-https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://www.konyaolaytv.com/upload/tema/20230307__5154687762.jpg",Konya Olay TV (720p)
 https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
 #EXTINF:-1 group-title="Yerel" tvg-logo="http://assets.tvcdn.net/50cd1375-3639-4b25-97a6-e99dd39f26be.png",Lugat TV
@@ -268,10 +165,6 @@ http://stream.tvcdn.net/diger-eglence/superturk-max.m3u8
 http://stream.tvcdn.net/diger-eglence/superturk-tv.m3u8
 #EXTINF:-1 group-title="Yerel" tvg-logo="http://assets.tvcdn.net/94505dd8-b52d-4b4d-b1e4-9fda2829ed57.png",Süper 7 TV
 http://stream.tvcdn.net/diger-eglence/super-7-tv.m3u8
-#EXTINF:-1 group-title="Yerel" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/tay_tv.png",TAY TV (360p)
-https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
-#EXTINF:-1 group-title="Yerel" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png",Tivi Türk
-http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
 #EXTINF:-1 group-title="Yerel" tvg-logo="http://assets.tvcdn.net/ce391a09-3e27-4782-a2d3-1fa7fed0974e.png",TV Mor
 http://stream.tvcdn.net/diger/tv-mor.m3u8
 #EXTINF:-1 group-title="Yerel" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png",Türkiye Klinikleri
@@ -296,8 +189,6 @@ http://stream.tvcdn.net/spor/a-spor.m3u8
 http://stream.tvcdn.net/spor/bric-ve-satranc-tv.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="http://assets.tvcdn.net/bf46ecf5-390b-42d0-8599-8b48b23f3bc8.png",FB TV
 http://stream.tvcdn.net/spor/fb-tv.m3u8
-#EXTINF:-1 group-title="Spor" tvg-logo="http://assets.tvcdn.net/639df808-f325-4b05-8cdb-9ed151338087.png",Fit Yasa TV
-http://stream.tvcdn.net/spor/fit-yasa-tv.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="http://assets.tvcdn.net/777501f0-ebb0-450b-913e-a3c1e2e977fe.png",GS TV
 http://stream.tvcdn.net/spor/gs-tv.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png",HTSpor TV (1080p)
@@ -306,66 +197,20 @@ http://185.234.111.229:8000/play/a016
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://i.imgur.com/2jIItAy.png",S Sport 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-#EXTINF:-1 group-title="Spor" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png",Sports TV
-http://stream.tvcdn.net/spor/sports-tv.m3u8
-#EXTINF:-1 group-title="Spor" tvg-logo="https://i.imgur.com/tGTVcVe.jpg",Sports TV (720p) [Geo-blocked]
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 group-title="Spor" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png",Tivibu Spor
-http://stream.tvcdn.net/spor/tivibu-spor.m3u8
-#EXTINF:-1 group-title="Spor" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png",TRT Spor
-http://stream.tvcdn.net/spor/trt-spor.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://www.lyngsat.com/logo/tv/tt/turkmenistan-sport-tm.png",Türkmenistan Sport (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch004.m3u8
-#EXTINF:-1 group-title="Spor" tvg-logo="http://assets.tvcdn.net/6f73f66b-d2d3-451d-9f56-5d1b27172abc.png",Ziraat Türkiye Kupasi TV
-http://stream.tvcdn.net/spor/ziraat-turkiye-kupasi-tv.m3u8
 #EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/07df8da2-6115-49e7-84fb-717cadf0723d.png",Apa TV
 http://stream.tvcdn.net/azerbaycan/apa-tv.m3u8
-#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/7ead0f6e-66c4-4813-8f0c-730c3ede8095.png",ARB
-http://stream.tvcdn.net/azerbaycan/arb.m3u8
-#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/9c5f469a-6305-4b57-a591-d44a0bae7bc0.png",ARB 24
-http://stream.tvcdn.net/azerbaycan/arb-24.m3u8
-#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/eab1873b-fe30-41c6-b755-ba6a6709f4cd.png",ARB Gunes
-http://stream.tvcdn.net/azerbaycan/arb-gunes.m3u8
-#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/debb1b49-4809-413b-8418-6c176181a1d6.png",Az Star TV
-http://stream.tvcdn.net/azerbaycan/az-star-tv.m3u8
 #EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/bf9a92f4-73b0-487e-ae81-59611351ae9c.png",AZ TV
 http://stream.tvcdn.net/azerbaycan/az-tv.m3u8
-#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/84f1c014-d4b5-48bf-be6b-97afd96c7cb5.png",Azad TV
-http://stream.tvcdn.net/azerbaycan/azad-tv.m3u8
-#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/532ddf5c-b187-4616-b2e4-43d055fd53fc.png",Baku TV
-http://stream.tvcdn.net/azerbaycan/baku-tv.m3u8
-#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/f6608442-2bd6-4e63-b229-7a4c2eb945de.png",CBC
-http://stream.tvcdn.net/azerbaycan/cbc.m3u8
-#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/0a138109-453b-4df0-bc70-c04573a5afaf.png",Dünya TV
-http://stream.tvcdn.net/azerbaycan/dunya-tv.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Farrukh TV
 http://stream.tvcdn.net/azerbaycan/farrukh-tv.m3u8
-#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/d5ef1443-3b24-4554-a82f-bfc47672fa21.png",Ictimai TV
-http://stream.tvcdn.net/azerbaycan/ictimai-tv.m3u8
-#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/2a676b79-b093-4fc0-a539-dd53381ac8ad.png",MCJ TV Shop
-http://stream.tvcdn.net/azerbaycan/mcj-tv-shop.m3u8
 #EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/60b3dc4b-1f50-430f-bf3e-0316920d0447.png",Medeniyyet TV
 http://stream.tvcdn.net/azerbaycan/medeniyyet-tv.m3u8
-#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/27890fa6-d544-401b-8372-05f5215b0dc4.png",Muz TV Azerbaycan
-http://stream.tvcdn.net/azerbaycan/muz-tv-azerbaycan.m3u8
 #EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/234442fa-6236-445f-ad39-81d3a8a9d34f.png",Naxcivan TV
 http://stream.tvcdn.net/azerbaycan/naxcivan-tv.m3u8
-#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png",Real TV
-http://stream.tvcdn.net/azerbaycan/real-tv.m3u8
 #EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/ac50480b-1647-42be-9340-20d8861c7218.png",Ses TV
 http://stream.tvcdn.net/azerbaycan/ses-tv.m3u8
-#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/b1f9d0e3-fad4-4ef6-b002-b205b5f44677.png",Space TV
-http://stream.tvcdn.net/azerbaycan/space-tv.m3u8
-#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/ca83dcf1-6fc5-4ade-bad6-a9749b37b671.png",Start TV
-http://stream.tvcdn.net/azerbaycan/start-tv.m3u8
-#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/e6f5a04c-23bf-4d99-80c5-57bd6f9adee5.png",TMB Azerbaycan
-http://stream.tvcdn.net/azerbaycan/tmb-azerbaycan.m3u8
-#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/d0b584bf-e130-4546-9042-7420b066b5d1.png",Vilayet TV
-http://stream.tvcdn.net/azerbaycan/vilayet-tv.m3u8
-#EXTINF:-1 group-title="Azerbaycan" tvg-logo="http://assets.tvcdn.net/7f645673-da1a-444c-b2de-88afa0efaf67.jpeg",VIP HD
-http://stream.tvcdn.net/azerbaycan/vip-hd.m3u8
-#EXTINF:-1 group-title="Azerbaycan",Xezer TV
-http://stream.tvcdn.net/azerbaycan/xezer-tv.m3u8
 #EXTINF:-1 group-title="cam",cam104
 http://ibb-media1.ibb.gov.tr:1935/live/104.stream/Playlist.m3u8
 #EXTINF:-1 group-title="cam",cam128
@@ -542,8 +387,6 @@ http://ibb-media1.ibb.gov.tr:1935/live/279.stream/Playlist.m3u8
 http://ibb-media1.ibb.gov.tr:1935/live/280.stream/Playlist.m3u8
 #EXTINF:-1 group-title="cam",cam281
 http://ibb-media1.ibb.gov.tr:1935/live/281.stream/Playlist.m3u8
-#EXTINF:-1 group-title="cam",cam282
-http://ibb-media1.ibb.gov.tr:1935/live/282.stream/Playlist.m3u8
 #EXTINF:-1 group-title="cam",cam283
 http://ibb-media1.ibb.gov.tr:1935/live/283.stream/Playlist.m3u8
 #EXTINF:-1 group-title="cam",cam286
@@ -740,60 +583,30 @@ http://ibb-media1.ibb.gov.tr:1935/live/230.stream/playlist.m3u8
 http://ibb-media1.ibb.gov.tr:1935/live/233.stream/playlist.m3u8
 #EXTINF:-1 group-title="Cam",Taksim Gümüşsuyu
 http://ibb-media1.ibb.gov.tr:1935/live/235.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cam",İstiklal Caddesi
-http://ibb-media1.ibb.gov.tr:1935/live/226.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cam",Taksim Meydanı
-http://ibb-media1.ibb.gov.tr:1935/live/227.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cam",Galata Kulesi
-http://ibb-media1.ibb.gov.tr:1935/live/228.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cam",Şişli - Mecidiyeköy
-http://ibb-media1.ibb.gov.tr:1935/live/229.stream/playlist.m3u8
-#EXTINF:-1 group-title="Dini" tvg-logo="http://assets.tvcdn.net/19146761-32ae-46ad-a0f0-2862c2f887e9.png",ABN Turkey
-http://stream.tvcdn.net/dini/abn-turkey.m3u8
-#EXTINF:-1 group-title="Dini" tvg-logo="http://assets.tvcdn.net/4ca28592-03c0-44cb-85c5-29216afb1bf4.png",Aile TV
-http://stream.tvcdn.net/dini/aile-tv.m3u8
-#EXTINF:-1 group-title="Dini" tvg-logo="http://assets.tvcdn.net/cfd07412-b7c1-4a85-84f5-ac743f8f1a84.png",Asr-i Saadet TV
-http://stream.tvcdn.net/dini/asr-i-saadet-tv.m3u8
-#EXTINF:-1 group-title="Dini" tvg-logo="http://assets.tvcdn.net/8d763e76-e879-4e05-a451-8d39b77838e0.png",Asr-i Serif TV
-http://stream.tvcdn.net/dini/asr-i-serif-tv.m3u8
 #EXTINF:-1 group-title="Dini" tvg-logo="http://assets.tvcdn.net/ea4fe219-8fe0-4476-b636-3242ae8d2bf5.png",Diyar TV
 http://stream.tvcdn.net/dini/diyar-tv.m3u8
 #EXTINF:-1 group-title="Dini" tvg-logo="http://assets.tvcdn.net/95e2b9a5-991b-4eda-bd0f-ec3c570d9147.png",Dost TV
 http://stream.tvcdn.net/dini/dost-tv.m3u8
 #EXTINF:-1 group-title="Dini" tvg-logo="http://assets.tvcdn.net/c2efb51d-645d-41e2-bb9e-7068e41325b7.png",Hadi TV Türkce
 http://stream.tvcdn.net/dini/hadi-tv-turkce.m3u8
-#EXTINF:-1 group-title="Dini" tvg-logo="http://assets.tvcdn.net/51a438e2-9c50-45fc-afd3-2764cc8714a8.png",ilahiler TV
-http://stream.tvcdn.net/dini/ilahiler-tv.m3u8
 #EXTINF:-1 group-title="Dini" tvg-logo="http://assets.tvcdn.net/58500568-8b50-4b69-8b43-d303c933ca61.png",iLK TV
 http://stream.tvcdn.net/dini/ilk-tv.m3u8
-#EXTINF:-1 group-title="Dini" tvg-logo="http://assets.tvcdn.net/62afff37-79e9-441b-a63e-f1fba2c22182.png",ilmihal TV
-http://stream.tvcdn.net/dini/ilmihal-tv.m3u8
-#EXTINF:-1 group-title="Dini" tvg-logo="http://assets.tvcdn.net/0a36c783-1a76-448d-b0d9-98add4aeab2d.png",islam TV
-http://stream.tvcdn.net/dini/islam-tv.m3u8
 #EXTINF:-1 group-title="Dini" tvg-logo="http://assets.tvcdn.net/6e6dcb66-3dd2-4ef8-9b2b-9c470844c047.png",Kanal 12
 http://stream.tvcdn.net/dini/kanal-12.m3u8
 #EXTINF:-1 group-title="Dini" tvg-logo="http://assets.tvcdn.net/f0ca3918-8cbd-4607-b9d0-6a27d6f29425.png",Kanal Hayat
 http://stream.tvcdn.net/dini/kanal-hayat.m3u8
 #EXTINF:-1 group-title="Dini" tvg-logo="http://assets.tvcdn.net/2c5ca955-eefe-4c69-81fa-007da1d9d18f.png",Kudüs TV
 http://stream.tvcdn.net/dini/kudus-tv.m3u8
-#EXTINF:-1 group-title="Dini" tvg-logo="http://assets.tvcdn.net/425981cf-189f-45c1-ad8d-6b0ccd2a12d5.png",Kuran-i Kerim Dersleri
-http://stream.tvcdn.net/dini/kuran-i-kerim-dersleri.m3u8
 #EXTINF:-1 group-title="Dini" tvg-logo="http://assets.tvcdn.net/97578c5d-493f-4a99-ab6b-aedc02609cf0.png",Lalegül TV
 http://stream.tvcdn.net/dini/lalegul-tv.m3u8
 #EXTINF:-1 group-title="Dini" tvg-logo="http://assets.tvcdn.net/61b5c17b-e0dd-4702-bb9b-689097e4648f.png",Meltem TV
 http://stream.tvcdn.net/dini/meltem-tv.m3u8
 #EXTINF:-1 group-title="Dini" tvg-logo="http://assets.tvcdn.net/bfe4289b-7785-46f4-ba62-8bbf4a188d45.png",Mihrap TV
 http://stream.tvcdn.net/dini/mihrap-tv.m3u8
-#EXTINF:-1 group-title="Dini" tvg-logo="http://assets.tvcdn.net/23b391ac-5edb-4e37-8664-27da64fb0785.png",Mukabele TV
-http://stream.tvcdn.net/dini/mukabele-tv.m3u8
-#EXTINF:-1 group-title="Dini" tvg-logo="http://assets.tvcdn.net/ca0a924f-a0ee-44a4-b590-b500ceb3e42b.png",Sat 7 Türk
-http://stream.tvcdn.net/dini/sat-7-turk.m3u8
 #EXTINF:-1 group-title="Dini" tvg-logo="http://assets.tvcdn.net/01b74bf2-a065-4d30-9ad6-a4213eb88cfa.png",Semerkand Way
 http://stream.tvcdn.net/dini/semerkand-way.m3u8
 #EXTINF:-1 group-title="Dini" tvg-logo="http://assets.tvcdn.net/3df2642a-042c-45b6-b292-01600c5590cd.png",TV 5
 http://stream.tvcdn.net/dini/tv-5.m3u8
-#EXTINF:-1 group-title="Dini" tvg-logo="http://assets.tvcdn.net/19a58ffe-437d-4272-9ccc-34bb839634e1.png",Vaaz TV
-http://stream.tvcdn.net/dini/vaaz-tv.m3u8
 #EXTINF:-1 group-title="Kibris" tvg-logo="http://assets.tvcdn.net/6fe98a89-47d1-47ff-9c9f-818a5bd5059c.png",BRT 1
 http://stream.tvcdn.net/kibris/brt-1.m3u8
 #EXTINF:-1 group-title="Kibris" tvg-logo="http://assets.tvcdn.net/84f563c9-83e5-4b75-ac6f-4fdc2b9596b2.png",BRT 2
@@ -810,8 +623,6 @@ http://stream.tvcdn.net/kibris/kibris-genc-tv.m3u8
 http://stream.tvcdn.net/kibris/kibris-kanal-t.m3u8
 #EXTINF:-1 group-title="Kibris" tvg-logo="http://assets.tvcdn.net/fd232c5f-8831-4109-ac8e-bbf773919349.png",Kibris TV
 http://stream.tvcdn.net/kibris/kibris-tv.m3u8
-#EXTINF:-1 group-title="Kibris" tvg-logo="http://assets.tvcdn.net/3e20393f-e123-4e82-954a-c444cab0dd17.png",Torba TV
-http://stream.tvcdn.net/kibris/torba-tv.m3u8
 #EXTINF:-1 group-title="Kibris" tvg-logo="http://assets.tvcdn.net/59f65c5e-2660-46b3-b41f-f1fdc4fc4ad4.png",TV 2020
 http://stream.tvcdn.net/kibris/tv-2020.m3u8
 #EXTINF:-1 group-title="Kurumlar" tvg-logo="http://assets.tvcdn.net/b694fd40-7fb1-4ee7-bb9c-f143b4b54f93.jpeg",cekmeköy Web TV
@@ -822,8 +633,6 @@ http://stream.tvcdn.net/kurumlar/esenler-sehir-ekrani.m3u8
 http://stream.tvcdn.net/kurumlar/ibb-tv.m3u8
 #EXTINF:-1 group-title="Kurumlar" tvg-logo="http://assets.tvcdn.net/f84b8f2d-8200-4341-9c9a-7c0885450871.png",intisad TV
 http://stream.tvcdn.net/kurumlar/intisad-tv.m3u8
-#EXTINF:-1 group-title="Kurumlar" tvg-logo="http://assets.tvcdn.net/ba0dcbdf-1582-4e3e-8877-b1b9e5d7b2cd.png",OKKU TV
-http://stream.tvcdn.net/kurumlar/okku-tv.m3u8
 #EXTINF:-1 group-title="Kurumlar" tvg-logo="http://assets.tvcdn.net/df4f5ccd-96f4-4301-980b-27499dc72ead.jpg",Usküdar Universitesi TV 1
 http://stream.tvcdn.net/kurumlar/uskudar-universitesi-tv-1.m3u8
 #EXTINF:-1 group-title="Kurumlar" tvg-logo="http://assets.tvcdn.net/0ea0f8e7-86af-4ed8-b749-7c7663071d42.jpg",Usküdar Universitesi TV 2
@@ -838,16 +647,12 @@ http://stream.tvcdn.net/diger-muzik/aviva.m3u8
 http://stream.tvcdn.net/diger-muzik/ayz-tv.m3u8
 #EXTINF:-1 group-title="Musik" tvg-logo="http://assets.tvcdn.net/c998c2a7-19e2-4363-af98-e6e7b40774d7.png",Ceyhan TV
 http://stream.tvcdn.net/diger-muzik/ceyhan-tv.m3u8
-#EXTINF:-1 group-title="Musik" tvg-logo="http://assets.tvcdn.net/972fe810-96d7-4cad-8918-fe0c28a45e7d.png",Chill TV
-http://stream.tvcdn.net/muzik/chill-tv.m3u8
 #EXTINF:-1 group-title="Musik" tvg-logo="http://assets.tvcdn.net/ff9bad51-26ca-40cb-8c05-071f1c775546.png",Damar Web TV
 http://stream.tvcdn.net/diger-muzik/damar-web-tv.m3u8
 #EXTINF:-1 group-title="Musik" tvg-logo="http://assets.tvcdn.net/f8af5ed8-4d05-4c2f-aa71-7d8e45ec19c2.png",Dost Web TV
 http://stream.tvcdn.net/diger-muzik/dost-web-tv.m3u8
 #EXTINF:-1 group-title="Musik" tvg-logo="https://i.imgur.com/vJ8VaZi.png",Dream Turk (576p)
 http://185.234.111.229:8000/play/a01v
-#EXTINF:-1 group-title="Musik" tvg-logo="http://assets.tvcdn.net/b7ff7221-f255-439d-9ee9-0f73348005b8.png",Dream Türk
-http://stream.tvcdn.net/muzik/dream-turk.m3u8
 #EXTINF:-1 group-title="Musik" tvg-logo="http://assets.tvcdn.net/5b807bfa-5808-4af2-8a4b-4212e6d3d132.png",Ezo TV
 http://stream.tvcdn.net/diger-muzik/ezo-tv.m3u8
 #EXTINF:-1 group-title="Musik" tvg-logo="http://assets.tvcdn.net/63a00e4e-eb16-4c55-9917-d1d2053f8b8b.png",Finest TV
@@ -858,16 +663,10 @@ http://stream.tvcdn.net/diger-muzik/fora-muzik.m3u8
 http://stream.tvcdn.net/diger-muzik/genc-kralice-tv.m3u8
 #EXTINF:-1 group-title="Musik" tvg-logo="http://assets.tvcdn.net/fc1e5546-cc3e-4c7e-b379-f16052c81901.png",Genc SMS TV
 http://stream.tvcdn.net/diger-muzik/genc-sms-tv.m3u8
-#EXTINF:-1 group-title="Musik" tvg-logo="http://assets.tvcdn.net/61431fea-4103-46a3-9f8c-aad1504b9776.png",Kral Pop TV
-http://stream.tvcdn.net/muzik/kral-pop-tv.m3u8
-#EXTINF:-1 group-title="Musik" tvg-logo="https://i.imgur.com/ch365lh.png",KRAL Pop TV (720p)
-https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:-1 group-title="Musik" tvg-logo="http://assets.tvcdn.net/caaac704-e0c2-4e8a-ada7-565e4a68a46e.jpg",Mega TV iskenderun
 http://stream.tvcdn.net/diger-muzik/mega-tv-iskenderun.m3u8
 #EXTINF:-1 group-title="Musik" tvg-logo="https://i.imgur.com/C3m6w5S.png",Meltem TV (1080p)
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
-#EXTINF:-1 group-title="Musik" tvg-logo="http://assets.tvcdn.net/f50d76a9-885f-4659-8dae-ea125469d25a.png",Musik TV
-http://stream.tvcdn.net/muzik/muzik-tv.m3u8
 #EXTINF:-1 group-title="Musik" tvg-logo="http://assets.tvcdn.net/a93b01d9-2c8f-4406-b5f9-abdf2f600e79.png",Number 1 Ask
 http://stream.tvcdn.net/muzik/number-1-ask.m3u8
 #EXTINF:-1 group-title="Musik" tvg-logo="https://i.imgur.com/slwbux7.png",Number 1 Ask (720p)
@@ -910,20 +709,10 @@ http://stream.tvcdn.net/diger-muzik/sila-tv.m3u8
 http://stream.tvcdn.net/diger-muzik/slow-karadeniz-tv.m3u8
 #EXTINF:-1 group-title="Musik" tvg-logo="http://assets.tvcdn.net/e7578e04-aeb6-494f-bef5-672c6efef128.png",Sönmez TV
 http://stream.tvcdn.net/diger-muzik/sonmez-tv.m3u8
-#EXTINF:-1 group-title="Musik" tvg-logo="https://i.imgur.com/q30sFms.png",Tarim TV (1080p)
-https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
-#EXTINF:-1 group-title="Musik" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/512px-TBMM_TV_logo.svg.png",TBMM TV (720p)
-https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:-1 group-title="Musik" tvg-logo="http://assets.tvcdn.net/09eddd54-7c9e-4036-8f9f-07d3c60c867c.png",Tempo TV
 http://stream.tvcdn.net/diger-muzik/tempo-tv.m3u8
-#EXTINF:-1 group-title="Musik" tvg-logo="http://assets.tvcdn.net/bff30a45-6e50-456c-af0e-62c62191c837.png",TMB
-http://stream.tvcdn.net/muzik/tmb.m3u8
 #EXTINF:-1 group-title="Musik" tvg-logo="http://assets.tvcdn.net/4a8468ec-c134-4db1-93ef-699f15e1522b.png",Toppop TV
 http://stream.tvcdn.net/diger-muzik/toppop-tv.m3u8
-#EXTINF:-1 group-title="Musik" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png",TRT Musik
-http://stream.tvcdn.net/muzik/trt-muzik.m3u8
-#EXTINF:-1 group-title="Musik" tvg-logo="https://i.imgur.com/JgUzRH8.png",TRT Müzik (720p)
-https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Musik" tvg-logo="https://i.imgur.com/Ap7l2jC.png",Türkmen Owazy (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch005.m3u8
 #EXTINF:-1 group-title="Musik" tvg-logo="http://assets.tvcdn.net/b013c3ce-79f1-4a67-b960-6f6f34b363e5.jpeg",Yagmurlu TV
@@ -932,27 +721,3 @@ http://stream.tvcdn.net/diger-muzik/yagmurlu-tv.m3u8
 http://stream.tvcdn.net/diger-muzik/zeyno.m3u8
 #EXTINF:-1 group-title="Sinema & Dizi" tvg-logo="https://i.imgur.com/AmcOAIY.png",Cine5 (720p)
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
-#EXTINF:-1 group-title="Sinema & Dizi" tvg-logo="https://www.lyngsat.com/logo/tv/gg/grand-cinema.png",Grand Cinema
-https://gcinemahls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Sinema & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/320px-GZT_logo.svg.png",GZT (1080p)
-https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
-#EXTINF:-1 group-title="Çocuk Kanalları" tvg-logo="http://assets.tvcdn.net/9cf2fc0e-278f-4007-b1a1-8fb22d4990eb.png",Cartoon Network
-http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
-#EXTINF:-1 group-title="Çocuk Kanalları" tvg-logo="http://assets.tvcdn.net/320542d3-bc8c-4e63-ba97-3b89426dda8c.png",cizgi Film TV
-http://stream.tvcdn.net/cocuk-egitim/cizgi-film-tv.m3u8
-#EXTINF:-1 group-title="Çocuk Kanalları" tvg-logo="http://assets.tvcdn.net/222d7e52-2895-46a1-92a2-93e2ce1c8317.png",cocuklara özel TV
-http://stream.tvcdn.net/cocuk-egitim/cocuklara-ozel-tv.m3u8
-#EXTINF:-1 group-title="Çocuk Kanalları" tvg-logo="https://i.imgur.com/VCywMTv.png",Minika Cocuk (480p)
-https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/index.m3u8
-#EXTINF:-1 group-title="Çocuk Kanalları" tvg-logo="https://i.imgur.com/qIoipDq.png",Minika Go (480p)
-https://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8
-#EXTINF:-1 group-title="Çocuk Kanalları" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png",TRT Diyanet cocuk
-http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
-#EXTINF:-1 group-title="Çocuk Kanalları" tvg-logo="https://i.imgur.com/8PmXz9t.png",TRT Diyanet Çocuk (720p)
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Çocuk Kanalları" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png",TRT EBA
-http://stream.tvcdn.net/cocuk-egitim/trt-eba.m3u8
-#EXTINF:-1 group-title="Çocuk Kanalları" tvg-logo="https://i.imgur.com/o0eevnb.png",Zarok TV (720p)
-https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1 group-title="Çocuk Kanalları",Zarok TV Sorani (720p)
-https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
