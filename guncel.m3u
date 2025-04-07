@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="İstanbul Taksim" tvg-logo="" group-title="Türkiye",İstanbul Taksim
+http://ibbmedia.ibb.gov.tr/1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Konya Mevlana Meydanı" tvg-logo="" group-title="Türkiye",Konya Mevlana Meydanı
+http://konyacam.konya.bel.tr/live/mevlana.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zürich Havalimanı" tvg-logo="" group-title="Havaalanı",Zürich Havalimanı
+https://streaming3.webcam-hd.com/zurichairport/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Innsbruck Airport (AT)" tvg-logo="" group-title="Havaalanı",Innsbruck Airport (AT)
+https://video.m3u8.stream/flughafen-innsbruck/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Anchorage Airport (USA)" tvg-logo="" group-title="Havaalanı",Anchorage Airport (USA)
+https://videos3.flightradar.live/ANC1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Oslo Trafik Kavşağı" tvg-logo="" group-title="Trafik",Oslo Trafik Kavşağı
+https://kamerautsnitt-api.vegvesen.no/utsnitt/v1/stream/h264/m3u8/100040
+#EXTINF:-1 tvg-id="" tvg-name="Florida Turnpike" tvg-logo="" group-title="Trafik",Florida Turnpike
+https://video-streams.tpk.fl.us/LiveVideo/CCTV/Turnpike/Turnpike_CCTV1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Split Sahili (Hırvatistan)" tvg-logo="" group-title="Sahil",Split Sahili (Hırvatistan)
+https://webcams.splitscreen.live/split-seaside/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nice Plajı (Fransa)" tvg-logo="" group-title="Sahil",Nice Plajı (Fransa)
+https://live.cam-nice.fr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alpler - İsviçre Dağ Kamerası" tvg-logo="" group-title="Doğa",Alpler - İsviçre Dağ Kamerası
+https://live.snow-cams.ch/alps/hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Norveç Orman Gözlem" tvg-logo="" group-title="Doğa",Norveç Orman Gözlem
+https://forestcam.norway.gov/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="New York Times Square" tvg-logo="" group-title="Dünya",New York Times Square
+https://livestream-times.nyc.gov/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tokyo Sokak Kamerası" tvg-logo="" group-title="Dünya",Tokyo Sokak Kamerası
+https://tokyo-live.webcam-japan.net/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Berlin Brandenburger Tor" tvg-logo="" group-title="Dünya",Berlin Brandenburger Tor
+https://berlin-brandenburger.cam/playlist.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/PexhKwp.png",4U TV (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630e00c065cfc10007c6e06b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae7975-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fc241168-281d-4fac-b62d-4585cc441c02
 #EXTINF:-1 group-title="Ulusal" tvg-logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png",a2
