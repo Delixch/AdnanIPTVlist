@@ -437,3 +437,873 @@ http://stream.arte.com/live.m3u8
 
 #EXTINF:-1 group-title="Eğitim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Khan_Academy_logo.png",Khan Academy
 http://stream.khanacademy.com/live.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT26000054S_20240827T040955SQUARE.png",Actionfilme - Rakuten TV
+https://jmp2.uk/sam-AT26000054S.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500454A_20250107T021538SQUARE.png",Artflix
+https://jmp2.uk/sam-ATAJ0500454A.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500458A_20250107T022014SQUARE.png",auto motor und sport
+https://jmp2.uk/sam-ATAJ0500458A.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2600008HN_20250107T022037SQUARE.png",Baywatch
+https://jmp2.uk/sam-ATBD2600008HN.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300018K1_20250107T021547SQUARE.png",Bloomberg TV+
+https://jmp2.uk/sam-ATBA3300018K1.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1900003VW_20250107T022043SQUARE.png",CAR CITY ADVENTURES
+https://jmp2.uk/sam-AT1900003VW.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD800001VA_20250415T021523SQUARE.png",CNN
+https://jmp2.uk/sam-ATBD800001VA.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD190000101_20250422T045222SQUARE.png",CNN Headlines
+https://jmp2.uk/sam-ATBD190000101.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD41000046O_20250415T021526SQUARE.png",Comedy Mix
+https://jmp2.uk/sam-ATBD41000046O.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT260000634_20250415T021529SQUARE.png",Crime Serien - Rakuten TV
+https://jmp2.uk/sam-AT260000634.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4500001S1_20250131T145242SQUARE.png",Crime Time
+https://jmp2.uk/sam-AT4500001S1.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC4700001JX_20250415T021532SQUARE.png",DAZN FAST+
+https://jmp2.uk/sam-ATBC4700001JX.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2400001WV_20250107T022100SQUARE.png",DDR TV-Archiv
+https://jmp2.uk/sam-AT2400001WV.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT23000017K_20250107T022105SQUARE.png",Deluxe Dance By Kontor
+https://jmp2.uk/sam-AT23000017K.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1500029H6_20250107T022108SQUARE.png",Deluxe Deutschpop
+https://jmp2.uk/sam-ATBA1500029H6.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500413A_20250107T021622SQUARE.png",Deluxe Lounge HD
+https://jmp2.uk/sam-ATAJ0500413A.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD3800001SY_20250107T022103SQUARE.png",DELUXE RAP
+https://jmp2.uk/sam-ATBD3800001SY.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT300000183_20250107T022110SQUARE.png",Deutsches Kino - Rakuten TV
+https://jmp2.uk/sam-AT300000183.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2600004LH_20240924T050730SQUARE.png",Drama Filme - Rakuten TV
+https://jmp2.uk/sam-AT2600004LH.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2600002KW_20250415T021535SQUARE.png",Euronews LIVE
+https://jmp2.uk/sam-AT2600002KW.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1500012BI_20250107T021630SQUARE.png",Fabella
+https://jmp2.uk/sam-ATBA1500012BI.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ32000027V_20250107T021632SQUARE.png",FailArmy
+https://jmp2.uk/sam-ATAJ32000027V.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2600007N2_20250107T022115SQUARE.png",Family - Rakuten TV
+https://jmp2.uk/sam-AT2600007N2.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1500010H3_20250107T021637SQUARE.png",Fantasja
+https://jmp2.uk/sam-ATBA1500010H3.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA10000075C_20250107T021640SQUARE.png",Fashion TV
+https://jmp2.uk/sam-ATBA10000075C.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC300000551_20250107T022117SQUARE.png",Filmgold
+https://jmp2.uk/sam-ATBC300000551.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500419A_20250107T021647SQUARE.png",Focus TV
+https://jmp2.uk/sam-ATAJ0500419A.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD1100002TA_20250107T022112SQUARE.png",FRANCE 24 FAST
+https://jmp2.uk/sam-ATBD1100002TA.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT26000086D_20250117T112016SQUARE.png",Freitag Nacht News
+https://jmp2.uk/sam-AT26000086D.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500451A_20250107T021652SQUARE.png",GoldStar TV
+https://jmp2.uk/sam-ATAJ0500451A.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500455A_20250107T021655SQUARE.png",Grjngo
+https://jmp2.uk/sam-ATAJ0500455A.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT80000194_20250408T021519SQUARE.png",H2O & Friends
+https://jmp2.uk/sam-AT80000194.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3700002Z3_20250107T022125SQUARE.png",Heartland
+https://jmp2.uk/sam-AT3700002Z3.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA15000232E_20250107T021700SQUARE.png",Heimatkino
+https://jmp2.uk/sam-ATBA15000232E.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1500003M7_20250422T045225SQUARE.png",Herzfrequenz
+https://jmp2.uk/sam-AT1500003M7.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT19000012X_20250107T022130SQUARE.png",Himmlisches Kino
+https://jmp2.uk/sam-AT19000012X.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500430A_20250107T021707SQUARE.png",Hip Trips
+https://jmp2.uk/sam-ATAJ0500430A.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT48000012I_20250422T045228SQUARE.png",Hochzeit auf den ersten Blick
+https://jmp2.uk/sam-AT48000012I.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4800002G5_20250214T112510SQUARE.png",Hudson & Rex
+https://jmp2.uk/sam-AT4800002G5.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1500028F9_20250207T120831SQUARE.png",Höhenrausch
+https://jmp2.uk/sam-ATBA1500028F9.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500443A_20250107T021716SQUARE.png",Just Cooking
+https://jmp2.uk/sam-ATAJ0500443A.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500431A_20250107T022019SQUARE.png",just.fishing
+https://jmp2.uk/sam-ATAJ0500431A.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2600009ON_20250107T022135SQUARE.png",Komödien - Rakuten TV
+https://jmp2.uk/sam-AT2600009ON.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD1500001X4_20250214T112507SQUARE.png",Lagerfeuer
+https://jmp2.uk/sam-ATBD1500001X4.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1100001B5_20250107T022137SQUARE.png",Landlust TV
+https://jmp2.uk/sam-AT1100001B5.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA15000088F_20250107T021737SQUARE.png",Moconomy
+https://jmp2.uk/sam-ATBA15000088F.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2600009FE_20250107T022144SQUARE.png",More than Sports TV
+https://jmp2.uk/sam-ATBD2600009FE.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2600011EO_20250107T022147SQUARE.png",Motorvision
+https://jmp2.uk/sam-ATBD2600011EO.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2600010EC_20250107T022149SQUARE.png",Motorvision Classic
+https://jmp2.uk/sam-ATBD2600010EC.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA33000280A_20250107T021755SQUARE.png",Moviedome
+https://jmp2.uk/sam-ATBA33000280A.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA330002946_20250117T111941SQUARE.png",Moviedome Family
+https://jmp2.uk/sam-ATBA330002946.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300021BW_20250107T091824SQUARE.png",MyTime Movie Network
+https://jmp2.uk/sam-ATBA3300021BW.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4600003EY_20250415T021543SQUARE.png",Nashville
+https://jmp2.uk/sam-AT4600003EY.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500422A_20250107T021804SQUARE.png",Netzkino
+https://jmp2.uk/sam-ATAJ0500422A.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1500021SL_20250107T021810SQUARE.png",One Terra
+https://jmp2.uk/sam-ATBA1500021SL.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2500001A8_20250107T022158SQUARE.png",Out TV
+https://jmp2.uk/sam-ATBD2500001A8.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1000001YK_20250107T021817SQUARE.png",People Are Awesome
+https://jmp2.uk/sam-ATBA1000001YK.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD1500003ES_20250107T022204SQUARE.png",Red Bull TV
+https://jmp2.uk/sam-ATBD1500003ES.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2700004VR_20250107T022206SQUARE.png",Royalworld - Adel & Dynastien
+https://jmp2.uk/sam-ATBD2700004VR.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD26000124P_20250107T022211SQUARE.png",Scooore
+https://jmp2.uk/sam-ATBD26000124P.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT300007S8_20250218T040718SQUARE.png",Sony One Action HITS
+https://jmp2.uk/sam-AT300007S8.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT300008JS_20250218T040909SQUARE.png",Sony One Comedy Hits
+https://jmp2.uk/sam-AT300008JS.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC30000021Q_20250107T022214SQUARE.png",Spannung & Emotionen
+https://jmp2.uk/sam-ATBC30000021Q.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500445A_20250318T040625SQUARE.png",SPIEGEL TV
+https://jmp2.uk/sam-ATAJ0500445A.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500433A_20250107T021911SQUARE.png",Sportdigital Free
+https://jmp2.uk/sam-ATAJ0500433A.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3200001DJ_20250107T022224SQUARE.png",StoryZoo & Friends
+https://jmp2.uk/sam-AT3200001DJ.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300010PU_20250107T022226SQUARE.png",Strongman Champions League
+https://jmp2.uk/sam-ATBA3300010PU.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT5000002QB_20250121T012839SQUARE.png",Teletubbies
+https://jmp2.uk/sam-AT5000002QB.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500456A_20250107T021932SQUARE.png",Tempora
+https://jmp2.uk/sam-ATAJ0500456A.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA2200008XN_20250107T021935SQUARE.png",Tennis Channel
+https://jmp2.uk/sam-ATBA2200008XN.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2000029T_20250117T112024SQUARE.png",The Jamie Oliver Channel
+https://jmp2.uk/sam-AT2000029T.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ3200003W3_20250107T021944SQUARE.png",The Pet Collective
+https://jmp2.uk/sam-ATAJ3200003W3.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC3900001W3_20250107T022235SQUARE.png",The Wicked Tuna Channel
+https://jmp2.uk/sam-ATBC3900001W3.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500427A_20250415T021509SQUARE.png",Tierwelt
+https://jmp2.uk/sam-ATAJ0500427A.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT260000326_20250107T022240SQUARE.png",Top Filme - Rakuten TV
+https://jmp2.uk/sam-AT260000326.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA33000270C_20250326T013156SQUARE.png",Top Serien
+https://jmp2.uk/sam-ATBA33000270C.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300023X4_20250107T022022SQUARE.png",wedo movies
+https://jmp2.uk/sam-ATBA3300023X4.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300031VR_20250307T152239SQUARE.png",Wilder Planet
+https://jmp2.uk/sam-ATBA3300031VR.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD290000127_20250107T022447SQUARE.png",World Poker Tour
+https://jmp2.uk/sam-ATBD290000127.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500428A_20250107T022005SQUARE.png",Xplore
+https://jmp2.uk/sam-ATAJ0500428A.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300006WH_20250107T022248SQUARE.png",Zee One
+https://jmp2.uk/sam-ATBA3300006WH.m3u8
+#EXTINF:-1 group-title="Cam",Beyoğlu Tarlabaşı Bulvarı
+http://ibb-media1.ibb.gov.tr:1935/live/228.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam Metro Han
+http://ibb-media1.ibb.gov.tr:1935/live/229.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam Şişhane
+http://ibb-media1.ibb.gov.tr:1935/live/233.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam104
+http://ibb-media1.ibb.gov.tr:1935/live/104.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam128
+http://ibb-media1.ibb.gov.tr:1935/live/128.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam129
+http://ibb-media1.ibb.gov.tr:1935/live/129.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam152
+http://ibb-media1.ibb.gov.tr:1935/live/152.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam154
+http://ibb-media1.ibb.gov.tr:1935/live/154.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam156
+http://ibb-media1.ibb.gov.tr:1935/live/156.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam157
+http://ibb-media1.ibb.gov.tr:1935/live/157.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam158
+http://ibb-media1.ibb.gov.tr:1935/live/158.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam159
+http://ibb-media1.ibb.gov.tr:1935/live/159.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam160
+http://ibb-media1.ibb.gov.tr:1935/live/160.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam161
+http://ibb-media1.ibb.gov.tr:1935/live/161.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam162
+http://ibb-media1.ibb.gov.tr:1935/live/162.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam164
+http://ibb-media1.ibb.gov.tr:1935/live/164.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam165
+http://ibb-media1.ibb.gov.tr:1935/live/165.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam166
+http://ibb-media1.ibb.gov.tr:1935/live/166.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam167
+http://ibb-media1.ibb.gov.tr:1935/live/167.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam168
+http://ibb-media1.ibb.gov.tr:1935/live/168.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam171
+http://ibb-media1.ibb.gov.tr:1935/live/171.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam172
+http://ibb-media1.ibb.gov.tr:1935/live/172.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam173
+http://ibb-media1.ibb.gov.tr:1935/live/173.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam177
+http://ibb-media1.ibb.gov.tr:1935/live/177.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam181
+http://ibb-media1.ibb.gov.tr:1935/live/181.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam183
+http://ibb-media1.ibb.gov.tr:1935/live/183.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam184
+http://ibb-media1.ibb.gov.tr:1935/live/184.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam188
+http://ibb-media1.ibb.gov.tr:1935/live/188.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam190
+http://ibb-media1.ibb.gov.tr:1935/live/190.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam193
+http://ibb-media1.ibb.gov.tr:1935/live/193.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam194
+http://ibb-media1.ibb.gov.tr:1935/live/194.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam195
+http://ibb-media1.ibb.gov.tr:1935/live/195.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam196
+http://ibb-media1.ibb.gov.tr:1935/live/196.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam197
+http://ibb-media1.ibb.gov.tr:1935/live/197.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam199
+http://ibb-media1.ibb.gov.tr:1935/live/199.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam200
+http://ibb-media1.ibb.gov.tr:1935/live/200.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam201
+http://ibb-media1.ibb.gov.tr:1935/live/201.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam204
+http://ibb-media1.ibb.gov.tr:1935/live/204.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam205
+http://ibb-media1.ibb.gov.tr:1935/live/205.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam207
+http://ibb-media1.ibb.gov.tr:1935/live/207.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam208
+http://ibb-media1.ibb.gov.tr:1935/live/208.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam210
+http://ibb-media1.ibb.gov.tr:1935/live/210.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam211
+http://ibb-media1.ibb.gov.tr:1935/live/211.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam213
+http://ibb-media1.ibb.gov.tr:1935/live/213.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam214
+http://ibb-media1.ibb.gov.tr:1935/live/214.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam215
+http://ibb-media1.ibb.gov.tr:1935/live/215.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam217
+http://ibb-media1.ibb.gov.tr:1935/live/217.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam218
+http://ibb-media1.ibb.gov.tr:1935/live/218.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam220
+http://ibb-media1.ibb.gov.tr:1935/live/220.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam222
+http://ibb-media1.ibb.gov.tr:1935/live/222.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam223
+http://ibb-media1.ibb.gov.tr:1935/live/223.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam224
+http://ibb-media1.ibb.gov.tr:1935/live/224.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam225
+http://ibb-media1.ibb.gov.tr:1935/live/225.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam226
+http://ibb-media1.ibb.gov.tr:1935/live/226.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam227
+http://ibb-media1.ibb.gov.tr:1935/live/227.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam228
+http://ibb-media1.ibb.gov.tr:1935/live/228.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam229
+http://ibb-media1.ibb.gov.tr:1935/live/229.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam230
+http://ibb-media1.ibb.gov.tr:1935/live/230.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam233
+http://ibb-media1.ibb.gov.tr:1935/live/233.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam238
+http://ibb-media1.ibb.gov.tr:1935/live/238.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam242
+http://ibb-media1.ibb.gov.tr:1935/live/242.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam243
+http://ibb-media1.ibb.gov.tr:1935/live/243.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam248
+http://ibb-media1.ibb.gov.tr:1935/live/248.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam249
+http://ibb-media1.ibb.gov.tr:1935/live/249.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam250
+http://ibb-media1.ibb.gov.tr:1935/live/250.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam251
+http://ibb-media1.ibb.gov.tr:1935/live/251.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam253
+http://ibb-media1.ibb.gov.tr:1935/live/253.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam254
+http://ibb-media1.ibb.gov.tr:1935/live/254.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam255
+http://ibb-media1.ibb.gov.tr:1935/live/255.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam257
+http://ibb-media1.ibb.gov.tr:1935/live/257.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam258
+http://ibb-media1.ibb.gov.tr:1935/live/258.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam26
+http://ibb-media1.ibb.gov.tr:1935/live/26.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam260
+http://ibb-media1.ibb.gov.tr:1935/live/260.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam261
+http://ibb-media1.ibb.gov.tr:1935/live/261.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam262
+http://ibb-media1.ibb.gov.tr:1935/live/262.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam263
+http://ibb-media1.ibb.gov.tr:1935/live/263.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam266
+http://ibb-media1.ibb.gov.tr:1935/live/266.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam267
+http://ibb-media1.ibb.gov.tr:1935/live/267.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam268
+http://ibb-media1.ibb.gov.tr:1935/live/268.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam269
+http://ibb-media1.ibb.gov.tr:1935/live/269.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam27
+http://ibb-media1.ibb.gov.tr:1935/live/27.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam270
+http://ibb-media1.ibb.gov.tr:1935/live/270.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam277
+http://ibb-media1.ibb.gov.tr:1935/live/277.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam279
+http://ibb-media1.ibb.gov.tr:1935/live/279.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam280
+http://ibb-media1.ibb.gov.tr:1935/live/280.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam281
+http://ibb-media1.ibb.gov.tr:1935/live/281.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam282
+http://ibb-media1.ibb.gov.tr:1935/live/282.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam283
+http://ibb-media1.ibb.gov.tr:1935/live/283.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam286
+http://ibb-media1.ibb.gov.tr:1935/live/286.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam292
+http://ibb-media1.ibb.gov.tr:1935/live/292.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam297
+http://ibb-media1.ibb.gov.tr:1935/live/297.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam301
+http://ibb-media1.ibb.gov.tr:1935/live/301.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam302
+http://ibb-media1.ibb.gov.tr:1935/live/302.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam304
+http://ibb-media1.ibb.gov.tr:1935/live/304.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam306
+http://ibb-media1.ibb.gov.tr:1935/live/306.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam308
+http://ibb-media1.ibb.gov.tr:1935/live/308.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam310
+http://ibb-media1.ibb.gov.tr:1935/live/310.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam311
+http://ibb-media1.ibb.gov.tr:1935/live/311.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam312
+http://ibb-media1.ibb.gov.tr:1935/live/312.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam314
+http://ibb-media1.ibb.gov.tr:1935/live/314.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam316
+http://ibb-media1.ibb.gov.tr:1935/live/316.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam318
+http://ibb-media1.ibb.gov.tr:1935/live/318.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam321
+http://ibb-media1.ibb.gov.tr:1935/live/321.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam322
+http://ibb-media1.ibb.gov.tr:1935/live/322.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam323
+http://ibb-media1.ibb.gov.tr:1935/live/323.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam326
+http://ibb-media1.ibb.gov.tr:1935/live/326.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam331
+http://ibb-media1.ibb.gov.tr:1935/live/331.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam332
+http://ibb-media1.ibb.gov.tr:1935/live/332.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam335
+http://ibb-media1.ibb.gov.tr:1935/live/335.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam336
+http://ibb-media1.ibb.gov.tr:1935/live/336.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam338
+http://ibb-media1.ibb.gov.tr:1935/live/338.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam339
+http://ibb-media1.ibb.gov.tr:1935/live/339.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam340
+http://ibb-media1.ibb.gov.tr:1935/live/340.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam341
+http://ibb-media1.ibb.gov.tr:1935/live/341.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam345
+http://ibb-media1.ibb.gov.tr:1935/live/345.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam349
+http://ibb-media1.ibb.gov.tr:1935/live/349.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam350
+http://ibb-media1.ibb.gov.tr:1935/live/350.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam354
+http://ibb-media1.ibb.gov.tr:1935/live/354.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam357
+http://ibb-media1.ibb.gov.tr:1935/live/357.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam358
+http://ibb-media1.ibb.gov.tr:1935/live/358.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam359
+http://ibb-media1.ibb.gov.tr:1935/live/359.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam360
+http://ibb-media1.ibb.gov.tr:1935/live/360.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam361
+http://ibb-media1.ibb.gov.tr:1935/live/361.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam364
+http://ibb-media1.ibb.gov.tr:1935/live/364.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam365
+http://ibb-media1.ibb.gov.tr:1935/live/365.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam366
+http://ibb-media1.ibb.gov.tr:1935/live/366.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam367
+http://ibb-media1.ibb.gov.tr:1935/live/367.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam368
+http://ibb-media1.ibb.gov.tr:1935/live/368.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam369
+http://ibb-media1.ibb.gov.tr:1935/live/369.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam371
+http://ibb-media1.ibb.gov.tr:1935/live/371.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam373
+http://ibb-media1.ibb.gov.tr:1935/live/373.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam380
+http://ibb-media1.ibb.gov.tr:1935/live/380.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam385
+http://ibb-media1.ibb.gov.tr:1935/live/385.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam489
+http://ibb-media1.ibb.gov.tr:1935/live/489.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam490
+http://ibb-media1.ibb.gov.tr:1935/live/490.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam492
+http://ibb-media1.ibb.gov.tr:1935/live/492.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam493
+http://ibb-media1.ibb.gov.tr:1935/live/493.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam494
+http://ibb-media1.ibb.gov.tr:1935/live/494.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam495
+http://ibb-media1.ibb.gov.tr:1935/live/495.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam496
+http://ibb-media1.ibb.gov.tr:1935/live/496.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam497
+http://ibb-media1.ibb.gov.tr:1935/live/497.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam499
+http://ibb-media1.ibb.gov.tr:1935/live/499.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam500
+http://ibb-media1.ibb.gov.tr:1935/live/500.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam503
+http://ibb-media1.ibb.gov.tr:1935/live/503.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam513
+http://ibb-media1.ibb.gov.tr:1935/live/513.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam514
+http://ibb-media1.ibb.gov.tr:1935/live/514.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam515
+http://ibb-media1.ibb.gov.tr:1935/live/515.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam537
+http://ibb-media1.ibb.gov.tr:1935/live/537.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam541
+http://ibb-media1.ibb.gov.tr:1935/live/541.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam544
+http://ibb-media1.ibb.gov.tr:1935/live/544.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam589
+http://ibb-media1.ibb.gov.tr:1935/live/589.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam591
+http://ibb-media1.ibb.gov.tr:1935/live/591.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam606
+http://ibb-media1.ibb.gov.tr:1935/live/606.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam649
+http://ibb-media1.ibb.gov.tr:1935/live/649.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam656
+http://ibb-media1.ibb.gov.tr:1935/live/656.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam660
+http://ibb-media1.ibb.gov.tr:1935/live/660.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam705
+http://ibb-media1.ibb.gov.tr:1935/live/705.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam717
+http://ibb-media1.ibb.gov.tr:1935/live/717.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam736
+http://ibb-media1.ibb.gov.tr:1935/live/736.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam741
+http://ibb-media1.ibb.gov.tr:1935/live/741.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam765
+http://ibb-media1.ibb.gov.tr:1935/live/765.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam780
+http://ibb-media1.ibb.gov.tr:1935/live/780.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam781
+http://ibb-media1.ibb.gov.tr:1935/live/781.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam786
+http://ibb-media1.ibb.gov.tr:1935/live/786.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam791
+http://ibb-media1.ibb.gov.tr:1935/live/791.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam816
+http://ibb-media1.ibb.gov.tr:1935/live/816.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam836
+http://ibb-media1.ibb.gov.tr:1935/live/836.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam893
+http://ibb-media1.ibb.gov.tr:1935/live/893.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam906
+http://ibb-media1.ibb.gov.tr:1935/live/906.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam952
+http://ibb-media1.ibb.gov.tr:1935/live/952.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam953
+http://ibb-media1.ibb.gov.tr:1935/live/953.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam954
+http://ibb-media1.ibb.gov.tr:1935/live/954.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",Cam977
+http://ibb-media1.ibb.gov.tr:1935/live/977.stream/Playlist.m3u8
+#EXTINF:-1 group-title="Cam",İstiklal Caddesi 1
+http://ibb-media1.ibb.gov.tr:1935/live/226.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cam",İstiklal Caddesi 2
+http://ibb-media1.ibb.gov.tr:1935/live/227.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cam",Kasımpaşa Bahriye Caddesi
+http://ibb-media1.ibb.gov.tr:1935/live/230.stream/playlist.m3u8
+#EXTINF:-1 group-title="Dini" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/512px-Diyanet_TV_logo.svg.png",Diyanet TV (720p)
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 group-title="Genel" tvg-logo="https://i.imgur.com/agn47sQ.png",360 TV (720p) [Not 24/7]
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 group-title="Genel" tvg-logo="https://i.imgur.com/HC91Mho.png",Al Qanat 9 (720p)
+https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
+#EXTINF:-1 group-title="Genel" tvg-logo="https://i.imgur.com/U3qlEAp.png",BRTV (720p) [Geo-blocked]
+https://waw2.artiyerelmedya.net/brtv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Genel" tvg-logo="https://i.imgur.com/Dlsm9XP.png",Deha TV (720p) [Geo-blocked]
+https://waw2.artiyerelmedya.net/dehatv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Genel" tvg-logo="https://i.imgur.com/X4QFDhk.png",DİM TV (720p) [Geo-blocked]
+https://waw2.artiyerelmedya.net/dimtv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Genel" tvg-logo="https://i.imgur.com/VDGEPrD.png",Er TV (720p) [Geo-blocked]
+https://waw2.artiyerelmedya.net/ertv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Genel" tvg-logo="https://i.imgur.com/aXxAz84.png",IBB TV (1080p)
+http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
+#EXTINF:-1 group-title="Genel" tvg-logo="https://i.imgur.com/51xCkXG.png",Kanal 12 (1080p)
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
+#EXTINF:-1 group-title="Genel" tvg-logo="https://i.imgur.com/3o8Rokp.png",Kanal Firat (720p) [Not 24/7]
+https://waw2.artiyerelmedya.net/kanalfirat/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Genel" tvg-logo="https://i.imgur.com/Kr8960d.png",Kanal Z (720p) [Geo-blocked]
+https://waw2.artiyerelmedya.net/kanalz/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Genel" tvg-logo="https://i.imgur.com/MymuDJ1.png",Kay TV (720p) [Geo-blocked]
+https://waw2.artiyerelmedya.net/kaytv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Genel" tvg-logo="https://i.imgur.com/lWeJxm0.png",Life TV (720p) [Not 24/7]
+https://waw2.artiyerelmedya.net/lifetv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Genel" tvg-logo="https://i.imgur.com/3CWV8bS.png",Mercan TV (720p) [Not 24/7]
+https://waw2.artiyerelmedya.net/mercantv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Genel" tvg-logo="https://i.imgur.com/ZM4PSyq.png",Number 1 Dance (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:-1 group-title="Genel" tvg-logo="https://i.imgur.com/6w3ecR7.png",Tempo TV
+https://waw2.artiyerelmedya.net/tempotv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Genel" tvg-logo="https://i.imgur.com/f0Soeob.png",Ton TV (720p) [Not 24/7]
+https://waw2.artiyerelmedya.net/tontv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="Genel" tvg-logo="https://i.imgur.com/tITBc59.png",Vizyon 58 TV (720p) [Geo-blocked]
+https://waw2.artiyerelmedya.net/vizyon58/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Genel" tvg-logo="https://i.imgur.com/o26IDy4.png",VTV (720p) [Not 24/7]
+https://waw2.artiyerelmedya.net/kanalv/bant1/chunks.m3u8#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500448A_20250107T023839SQUARE.png",Artflix
+https://jmp2.uk/sam-DEAK0500448A.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500452A_20250107T024026SQUARE.png",auto motor und sport
+https://jmp2.uk/sam-DEAK0500452A.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD30000014M_20250107T024255SQUARE.png",Bares für Rares
+https://jmp2.uk/sam-DEBD30000014M.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD26000020X_20250107T024258SQUARE.png",Baywatch
+https://jmp2.uk/sam-DEBD26000020X.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2000004BG_20250107T024816SQUARE.png",CAR CITY ADVENTURES
+https://jmp2.uk/sam-DE2000004BG.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD800001S4_20250415T021641SQUARE.png",CNN
+https://jmp2.uk/sam-DEBD800001S4.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC3000002Z5_20250415T021643SQUARE.png",Comedy Mix
+https://jmp2.uk/sam-DEBC3000002Z5.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2600004U3_20250415T021646SQUARE.png",Crime Serien - Rakuten TV
+https://jmp2.uk/sam-DE2600004U3.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD1900002CB_20250107T024309SQUARE.png",Crime Time
+https://jmp2.uk/sam-DEBD1900002CB.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2400001DK_20250107T024821SQUARE.png",DDR TV-Archiv
+https://jmp2.uk/sam-DE2400001DK.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE23000015Y_20250107T024826SQUARE.png",Deluxe Dance By Kontor
+https://jmp2.uk/sam-DE23000015Y.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA150003050_20250107T024034SQUARE.png",Deluxe Deutschpop
+https://jmp2.uk/sam-DEBA150003050.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3800001QD_20250107T024317SQUARE.png",DELUXE RAP
+https://jmp2.uk/sam-DEBD3800001QD.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE30000067I_20250107T024828SQUARE.png",Deutsches Kino - Rakuten TV
+https://jmp2.uk/sam-DE30000067I.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2600007ET_20240924T050804SQUARE.png",Drama Filme - Rakuten TV
+https://jmp2.uk/sam-DE2600007ET.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2600003TR_20250415T021654SQUARE.png",Euronews LIVE
+https://jmp2.uk/sam-DE2600003TR.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA15000130L_20250107T023855SQUARE.png",Fabella
+https://jmp2.uk/sam-DEBA15000130L.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE26000085Y_20250107T024833SQUARE.png",Family - Rakuten TV
+https://jmp2.uk/sam-DE26000085Y.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1500011RJ_20250107T023900SQUARE.png",Fantasja
+https://jmp2.uk/sam-DEBA1500011RJ.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC35000020P_20250107T024328SQUARE.png",Filmgold
+https://jmp2.uk/sam-DEBC35000020P.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2600002DK_20250120T075835SQUARE.png",Freitag Nacht News
+https://jmp2.uk/sam-DE2600002DK.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500445A_20250107T023907SQUARE.png",GoldStar TV
+https://jmp2.uk/sam-DEAK0500445A.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500449A_20250107T023909SQUARE.png",Grjngo
+https://jmp2.uk/sam-DEAK0500449A.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3700004DM_20250307T152015SQUARE.png",Heartland
+https://jmp2.uk/sam-DE3700004DM.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1500024PZ_20250107T023911SQUARE.png",Heimatkino
+https://jmp2.uk/sam-DEBA1500024PZ.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1000001CT_20250408T021655SQUARE.png",Herzfrequenz
+https://jmp2.uk/sam-DE1000001CT.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1900001NT_20250107T024845SQUARE.png",Himmlisches Kino
+https://jmp2.uk/sam-DE1900001NT.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500424A_20250107T023914SQUARE.png",Hip Trips
+https://jmp2.uk/sam-DEAJ0500424A.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800002GM_20250218T035931SQUARE.png",Hudson & Rex
+https://jmp2.uk/sam-DE4800002GM.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA15000298V_20250107T023916SQUARE.png",Höhenrausch
+https://jmp2.uk/sam-DEBA15000298V.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD1500001VJ_20250218T035929SQUARE.png",Lagerfeuer
+https://jmp2.uk/sam-DEBD1500001VJ.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1100001CQ_20250107T024855SQUARE.png",Landlust TV
+https://jmp2.uk/sam-DE1100001CQ.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1500009ZY_20250107T023932SQUARE.png",Moconomy
+https://jmp2.uk/sam-DEBA1500009ZY.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300039TT_20250107T023935SQUARE.png",Moviedome
+https://jmp2.uk/sam-DEBA3300039TT.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300040CR_20250120T075816SQUARE.png",Moviedome Family
+https://jmp2.uk/sam-DEBA3300040CR.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300032UV_20250107T091816SQUARE.png",MyTime Movie Network
+https://jmp2.uk/sam-DEBA3300032UV.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4600001CD_20250307T152018SQUARE.png",Nashville
+https://jmp2.uk/sam-DE4600001CD.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500419A_20250107T023939SQUARE.png",Netzkino
+https://jmp2.uk/sam-DEAJ0500419A.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA15000227H_20250107T023945SQUARE.png",One Terra
+https://jmp2.uk/sam-DEBA15000227H.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2400001PC_20250107T024356SQUARE.png",Out TV
+https://jmp2.uk/sam-DEBD2400001PC.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2300001EU_20250107T024400SQUARE.png",Red Bull TV
+https://jmp2.uk/sam-DEBC2300001EU.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2200001EO_20250107T024410SQUARE.png",Spannung & Emotionen
+https://jmp2.uk/sam-DEBC2200001EO.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500441A_20250318T040635SQUARE.png",SPIEGEL TV
+https://jmp2.uk/sam-DEAK0500441A.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1400003DP_20250422T045258SQUARE.png",Spiegel TV action+crime
+https://jmp2.uk/sam-DE1400003DP.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500429A_20250107T024011SQUARE.png",Sportdigital Free
+https://jmp2.uk/sam-DEAJ0500429A.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200003U8_20250107T024734SQUARE.png",StoryZoo & Friends
+https://jmp2.uk/sam-DE3200003U8.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300016EV_20250107T024420SQUARE.png",Strongman Champions League
+https://jmp2.uk/sam-DEBA3300016EV.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800001Y8_20250120T075841SQUARE.png",Teletubbies
+https://jmp2.uk/sam-DE4800001Y8.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500450A_20250107T024019SQUARE.png",Tempora
+https://jmp2.uk/sam-DEAK0500450A.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC3000003IG_20250107T024424SQUARE.png",Terra X
+https://jmp2.uk/sam-DEBC3000003IG.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200003PX_20250107T024747SQUARE.png",The Jamie Oliver Channel
+https://jmp2.uk/sam-DE200003PX.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC220000422_20250107T024428SQUARE.png",The Wicked Tuna Channel
+https://jmp2.uk/sam-DEBC220000422.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300038NO_20250326T013203SQUARE.png",Top Serien
+https://jmp2.uk/sam-DEBA3300038NO.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC21000022L_20250107T024438SQUARE.png",Vevo Schlager Pop
+https://jmp2.uk/sam-DEBC21000022L.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300034HH_20250107T024240SQUARE.png",wedo movies
+https://jmp2.uk/sam-DEBA3300034HH.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20250307T152003SQUARE.png",Wilder Planet
+https://jmp2.uk/sam-DEBA3300042XG.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200007V6_20250107T024219SQUARE.png",XITE Hits
+https://jmp2.uk/sam-DEBA2200007V6.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3000002SI_20250107T024444SQUARE.png",XITE Rock X Metal
+https://jmp2.uk/sam-DEBD3000002SI.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500422A_20250107T024224SQUARE.png",Xplore
+https://jmp2.uk/sam-DEAJ0500422A.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700002HO_20250415T021703SQUARE.png",ZDF kocht!
+https://jmp2.uk/sam-DEBD3700002HO.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ2900003CN_20250107T024450SQUARE.png",Zee One
+https://jmp2.uk/sam-DEAJ2900003CN.m3u8
+#EXTINF:-1 group-title="Haber" tvg-logo="https://i.imgur.com/MCUjck8.png",Bursa AS TV (720p) [Geo-blocked]
+https://waw2.artiYerelmedya.net/astv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://i.imgur.com/9OPoXQG.png",Power Turk (1080p) [Not 24/7]
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://i.imgur.com/XSL1gd7.png",Power TV (1080p)
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2600004R1_20240827T041032SQUARE.png",Actionfilme - Rakuten TV
+https://jmp2.uk/sam-CH2600004R1.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD5100001EF_20250107T025428SQUARE.png",ADN [FR]
+https://jmp2.uk/sam-CHBD5100001EF.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2000023S_20250107T031444SQUARE.png",Alerte à Malibu [FR]
+https://jmp2.uk/sam-CHBD2000023S.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500455A_20250107T024956SQUARE.png",Artflix
+https://jmp2.uk/sam-CHAJ0500455A.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500459A_20250107T025415SQUARE.png",auto motor und sport
+https://jmp2.uk/sam-CHAJ0500459A.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2600009ZC_20250107T025436SQUARE.png",Baywatch
+https://jmp2.uk/sam-CHBD2600009ZC.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300018TD_20250107T031332SQUARE.png",Bloomberg TV+
+https://jmp2.uk/sam-CHBA3300018TD.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBB3900006JN_20250107T031447SQUARE.png",Chefclub TV [FR]
+https://jmp2.uk/sam-CHBB3900006JN.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD800001D0_20250415T021603SQUARE.png",CNN
+https://jmp2.uk/sam-CHBD800001D0.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD1900001JB_20250422T045238SQUARE.png",CNN Headlines
+https://jmp2.uk/sam-CHBD1900001JB.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBB4900004VT_20250107T025450SQUARE.png",Comedy & Shows
+https://jmp2.uk/sam-CHBB4900004VT.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD41000043H_20250415T021605SQUARE.png",Comedy Mix
+https://jmp2.uk/sam-CHBD41000043H.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2600007IJ_20250415T021609SQUARE.png",Crime Serien - Rakuten TV
+https://jmp2.uk/sam-CH2600007IJ.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2300001O9_20250107T025454SQUARE.png",Deluxe Dance By Kontor
+https://jmp2.uk/sam-CH2300001O9.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA1500029TL_20250107T031449SQUARE.png",Deluxe Deutschpop
+https://jmp2.uk/sam-CHBA1500029TL.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500413A_20250107T025029SQUARE.png",Deluxe Lounge HD
+https://jmp2.uk/sam-CHAJ0500413A.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD38000019N_20250107T025452SQUARE.png",DELUXE RAP
+https://jmp2.uk/sam-CHBD38000019N.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC4000006ZD_20250107T031452SQUARE.png",Destination Nature [FR]
+https://jmp2.uk/sam-CHBC4000006ZD.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3000001PT_20250107T025457SQUARE.png",Deutsches Kino - Rakuten TV
+https://jmp2.uk/sam-CH3000001PT.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2600002VE_20240924T050744SQUARE.png",Drama Filme - Rakuten TV
+https://jmp2.uk/sam-CH2600002VE.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC3500001NJ_20250107T031456SQUARE.png",Enquêtes de Choc [FR]
+https://jmp2.uk/sam-CHBC3500001NJ.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH26000037F_20250415T021612SQUARE.png",Euronews LIVE
+https://jmp2.uk/sam-CH26000037F.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA1500012K9_20250107T025039SQUARE.png",Fabella
+https://jmp2.uk/sam-CHBA1500012K9.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ32000026J_20250107T025041SQUARE.png",FailArmy
+https://jmp2.uk/sam-CHAJ32000026J.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH330000132_20250107T031459SQUARE.png",Faites entrer l'accusé [FR]
+https://jmp2.uk/sam-CH330000132.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH26000056O_20250107T025504SQUARE.png",Family - Rakuten TV
+https://jmp2.uk/sam-CH26000056O.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA150001090_20250107T031354SQUARE.png",Fantasja
+https://jmp2.uk/sam-CHBA150001090.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA1000007U6_20250107T025047SQUARE.png",Fashion TV
+https://jmp2.uk/sam-CHBA1000007U6.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD600003EI_20250107T025507SQUARE.png",Film Al Femminile - Wedo Movies [IT]
+https://jmp2.uk/sam-CHBD600003EI.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC3500004YJ_20250107T025509SQUARE.png",Filmgold
+https://jmp2.uk/sam-CHBC3500004YJ.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500419A_20250107T025054SQUARE.png",Focus TV
+https://jmp2.uk/sam-CHAJ0500419A.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD1100003CW_20250107T025502SQUARE.png",FRANCE 24 FAST
+https://jmp2.uk/sam-CHBD1100003CW.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2600008L1_20250117T134652SQUARE.png",Freitag Nacht News
+https://jmp2.uk/sam-CH2600008L1.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC800006EP_20250107T031503SQUARE.png",Fréquence Novelas [FR]
+https://jmp2.uk/sam-CHBC800006EP.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC40000040J_20250107T025514SQUARE.png",Grandi Documentari - Wedo Big Stories [IT]
+https://jmp2.uk/sam-CHBC40000040J.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500456A_20250307T151843SQUARE.png",Grjngo
+https://jmp2.uk/sam-CHAJ0500456A.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD200003G1_20250107T031506SQUARE.png",Génération Sitcoms [FR]
+https://jmp2.uk/sam-CHBD200003G1.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH800001RT_20250408T021607SQUARE.png",H2O & Friends
+https://jmp2.uk/sam-CH800001RT.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH3700002YI_20250415T021615SQUARE.png",Heartland
+https://jmp2.uk/sam-CH3700002YI.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA1500023RG_20250107T025107SQUARE.png",Heimatkino
+https://jmp2.uk/sam-CHBA1500023RG.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD26000017A_20250107T025519SQUARE.png",Hell's Kitchen
+https://jmp2.uk/sam-CHBD26000017A.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2300002MI_20250107T025522SQUARE.png",Himmlisches Kino
+https://jmp2.uk/sam-CH2300002MI.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4800001LT_20250422T045241SQUARE.png",Hochzeit auf den ersten Blick
+https://jmp2.uk/sam-CH4800001LT.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH48000025D_20250218T040710SQUARE.png",Hudson & Rex
+https://jmp2.uk/sam-CH48000025D.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA1500028KP_20250110T143016SQUARE.png",Höhenrausch
+https://jmp2.uk/sam-CHBA1500028KP.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500443A_20250107T025123SQUARE.png",Just Cooking
+https://jmp2.uk/sam-CHAJ0500443A.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2600001UH_20250107T025527SQUARE.png",Komödien - Rakuten TV
+https://jmp2.uk/sam-CH2600001UH.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD150000135_20250218T040707SQUARE.png",Lagerfeuer
+https://jmp2.uk/sam-CHBD150000135.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2600011YG_20250107T025534SQUARE.png",More than Sports TV
+https://jmp2.uk/sam-CHBD2600011YG.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD26000130C_20250107T025537SQUARE.png",Motorvision
+https://jmp2.uk/sam-CHBD26000130C.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2600012Y6_20250107T025539SQUARE.png",Motorvision Classic
+https://jmp2.uk/sam-CHBD2600012Y6.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA330002991_20250207T094621SQUARE.png",Moviedome
+https://jmp2.uk/sam-CHBA330002991.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300030AJ_20250117T134626SQUARE.png",Moviedome Family
+https://jmp2.uk/sam-CHBA3300030AJ.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC800001N2_20250107T091813SQUARE.png",MyTime Movie Network
+https://jmp2.uk/sam-CHBC800001N2.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH4600002VO_20250117T134655SQUARE.png",Nashville
+https://jmp2.uk/sam-CH4600002VO.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500422A_20250107T025216SQUARE.png",Netzkino
+https://jmp2.uk/sam-CHAJ0500422A.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA1500021M5_20250107T025223SQUARE.png",One Terra
+https://jmp2.uk/sam-CHBA1500021M5.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2500001SY_20250107T025546SQUARE.png",Out TV
+https://jmp2.uk/sam-CHBD2500001SY.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA1000004IU_20250107T025230SQUARE.png",People Are Awesome
+https://jmp2.uk/sam-CHBA1000004IU.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD3700002F2_20250107T031520SQUARE.png",Plus belle la vie [FR]
+https://jmp2.uk/sam-CHBD3700002F2.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2600014C0_20250107T031529SQUARE.png",Scooore
+https://jmp2.uk/sam-CHBD2600014C0.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBB46000021V_20250107T031532SQUARE.png",Scream'IN [FR]
+https://jmp2.uk/sam-CHBB46000021V.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBB4900003F5_20250107T025554SQUARE.png",Spannung & Emotionen
+https://jmp2.uk/sam-CHBB4900003F5.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500445A_20250318T040630SQUARE.png",SPIEGEL TV
+https://jmp2.uk/sam-CHAJ0500445A.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500433A_20250107T025313SQUARE.png",Sportdigital Free
+https://jmp2.uk/sam-CHAJ0500433A.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300008LD_20250107T025559SQUARE.png",SportOutdoor.tv [IT]
+https://jmp2.uk/sam-CHBA3300008LD.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBB49000054U_20250107T025605SQUARE.png",Stars in Gefahr
+https://jmp2.uk/sam-CHBB49000054U.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300011A6_20250107T025607SQUARE.png",Strongman Champions League
+https://jmp2.uk/sam-CHBA3300011A6.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH500000481_20250121T012843SQUARE.png",Teletubbies
+https://jmp2.uk/sam-CH500000481.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500457A_20250107T025333SQUARE.png",Tempora
+https://jmp2.uk/sam-CHAJ0500457A.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA22000080G_20250107T025336SQUARE.png",Tennis Channel
+https://jmp2.uk/sam-CHBA22000080G.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH20000288_20250415T021618SQUARE.png",The Jamie Oliver Channel
+https://jmp2.uk/sam-CH20000288.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ3200003RF_20250107T025342SQUARE.png",The Pet Collective
+https://jmp2.uk/sam-CHAJ3200003RF.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC40000011Y_20250107T025613SQUARE.png",The Wicked Tuna Channel
+https://jmp2.uk/sam-CHBC40000011Y.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500427A_20250107T025348SQUARE.png",Tierwelt
+https://jmp2.uk/sam-CHAJ0500427A.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2600006TR_20250107T025618SQUARE.png",Top Filme - Rakuten TV
+https://jmp2.uk/sam-CH2600006TR.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300026CA_20250326T013159SQUARE.png",Top Serien
+https://jmp2.uk/sam-CHBA3300026CA.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC800003LH_20250107T031536SQUARE.png",Trace Latina [FR]
+https://jmp2.uk/sam-CHBC800003LH.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300023SN_20250107T025420SQUARE.png",wedo movies
+https://jmp2.uk/sam-CHBA3300023SN.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300028G3_20250307T151845SQUARE.png",Wilder Planet
+https://jmp2.uk/sam-CHBA3300028G3.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2900001LI_20250107T025623SQUARE.png",World Poker Tour
+https://jmp2.uk/sam-CHBD2900001LI.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBB49000023B_20250107T031539SQUARE.png",Y'a que la vérité qui compte [FR]
+https://jmp2.uk/sam-CHBB49000023B.m3u8
+#EXTINF:-1 group-title="Switzerland" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD27000011N_20250415T021621SQUARE.png",Zee One
+https://jmp2.uk/sam-CHBD27000011N.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/rsoSLih.png",Teve2 (1080p)
+https://teve2vod.duhnet.tv/S12/HLS_VOD/382843_2e5b/index.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/DKNwiDm.png",TV 8 (1080p) [Not 24/7]
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://i.imgur.com/mgDCKiy.png",Aksu TV (720p)
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://i.imgur.com/wb1Cdc9.png",Kanal 15 (720p) [Not 24/7]
+https://waw2.artiyerelmedya.net/kanal15/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://i.imgur.com/3br8RCq.png",Kanal 23 (720p) [Not 24/7]
+https://waw2.artiyerelmedya.net/kanal23/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://i.imgur.com/Mr7XPii.png",Kanal 26 (720p) [Not 24/7]
+https://waw2.artiyerelmedya.net/kanal26/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://i.imgur.com/5y7K9SS.png",Kanal 68 (720p) [Not 24/7]
+https://waw2.artiyerelmedya.net/kanal68/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://i.imgur.com/FQKPjsm.png",Kent Türk (720p) [Not 24/7]
+https://waw2.artiyerelmedya.net/38kenttv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://i.imgur.com/FUaWv4s.png",Malatya Vuslat TV (720p)
+https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
