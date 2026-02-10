@@ -829,7 +829,7 @@ https://trkvz-beta.daioncdn.net/aspor/aspor.m3u8?app=45f847c4-04e8-419a-a561-2eb
 https://new.cache-stream.workers.dev/stream/UCK3mI2lsk3LSo8PBUc8JTSw/live.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png",HT SPOR 
 https://livestream.zazerconer.workers.dev/channel/UCK3mI2lsk3LSo8PBUc8JTSw.m3u8
-#EXTINF:-1 group-title="1MÜZİK" tvg-logo="https://i.ibb.co/gdbyhx2/spotify.png",SPOTIFY TURKEY • TRLIST 👤🎧🎤📻💯
+#EXTINF:-1 group-title="Muzik" tvg-logo="https://i.ibb.co/gdbyhx2/spotify.png",SPOTIFY TURKEY • TRLIST 👤🎧🎤📻💯
 https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/sptr.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co/gdbyhx2/spotify.png",SPOTIFY TURKEY • 2025 🎶🎵🎼🎹🪗🎸🎷🎺🎻🪕
 https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/sptr25.ts
@@ -893,7 +893,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17c
 http://dygvideo.dygdigital.com/live/hls/puhukralpopdai?m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/6401NQw/kraltv.png",KRAL - KRAL POP 
 https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=f38a38b4-ce55-4040-8676-9826937d6128
-#EXTINF:-1 group-title="AVRUPA; DİNÎ; DİĞER" tvg-logo="https://i.ibb.co/xzZk0Yq/trtavaz.png",TRT AVAZ
+#EXTINF:-1 group-title="Dini" tvg-logo="https://i.ibb.co/xzZk0Yq/trtavaz.png",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/swtn1kV/trtturk.png",TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
@@ -1321,7 +1321,7 @@ http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/index.m3u8
 https://live.euromediacenter.com/gurmetv/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",EZGİ TV
 https://live.euromediacenter.com/ezgitv/index.m3u8
-#EXTINF:-1 group-title="1YEREL - BÖLGESEL",--- |KKTC: KUZEY KIBRIS| ---
+#EXTINF:-1 group-title="Ulusal",--- |KKTC: KUZEY KIBRIS| ---
 http://blank
 #EXTINF:-1  tvg-logo="https://i.ibb.co/y8p46cM/Kktc.png",BRT 1
 https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
