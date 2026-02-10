@@ -165,7 +165,7 @@ http://canbroadcast.com:7000/canlican/tv.m3u8
 https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/FjuVuXF.jpeg",Syria TV
 https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
-#EXTINF:-1 group-title="HABER" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png",TRT HABER
+#EXTINF:-1 group-title="Haber" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV
 https://helga.iptv2022.com/szc_tv/index.m3u8
@@ -539,7 +539,7 @@ https://x.canlitvapp.com/kanal8/index.m3u8
 https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png",BEYAZ TV [diedlink]
 https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8
-#EXTINF:-1 group-title="Ulual" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png",TRT BELGESEL
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png",TRT BELGESEL
 https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/TB5N8cN/trt2.png",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
@@ -1009,7 +1009,7 @@ http://nimplus3.bozztv.com/eurod/eurod/playlist.m3u8
 http://nimplus3.bozztv.com/eurostar/eurostar/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/n7Jy3h5/tv8int22.png",TV8 INT (geçici geçerli)
 http://nimplus3.bozztv.com/tv8int/tv8int/playlist.m3u8
-#EXTINF:-1 group-title="Ulusl" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",ANADOLU NET TV
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",ANADOLU NET TV
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png",AKDENİZ TV
 https://cdn-akdeniztv.yayin.com.tr/akdeniztv/akdeniztv/playlist.m3u8
