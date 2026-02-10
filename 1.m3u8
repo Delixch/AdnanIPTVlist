@@ -157,13 +157,13 @@ https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Cocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRT_EBA_TV_logo.svg/400px-TRT_EBA_TV_logo.svg.png",TRT EBA TV
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Yurt Disi" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-turkiye-fr.png",Persiana Turkiye
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-turkiye-fr.png",Persiana Turkiye
 https://turkhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Yurt Disi" tvg-logo="https://i.imgur.com/oIMtuwB.png",CAN TV
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/oIMtuwB.png",CAN TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
-#EXTINF:-1 group-title="Yurt Disi" tvg-logo="https://i.imgur.com/cKQIK4i.png",Sat 7 Turk
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/cKQIK4i.png",Sat 7 Turk
 https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
-#EXTINF:-1 group-title="Yurt Disi" tvg-logo="https://i.imgur.com/FjuVuXF.jpeg",Syria TV
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.imgur.com/FjuVuXF.jpeg",Syria TV
 https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="HABER" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
@@ -375,7 +375,7 @@ https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png",TGRT HABER (backup)
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
-#EXTINF:-1 group-title="ULUSAL GENEL" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/d6c87Km/trt122.png",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
@@ -661,7 +661,7 @@ https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 https://s01.vpis.io/wmtv/wmtv.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png",WOMAN KADIN TV (backup)
 https://womantv.blutv.com/blutv_womantv/blutv_womantv/index.m3u8
-#EXTINF:-1 group-title="ÇOCUK - SPOR" tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png",TRT ÇOCUK
+#EXTINF:-1 group-title="Cocuk" tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png",TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qDF8pHQ/tdcc.png",TRT DİYANET ÇOCUK
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
